@@ -12,9 +12,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Remember to use port : 8000 for json server <br/>
 4. And now we can access our web app on http://localhost:3000/
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
 
