@@ -4,9 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Clone the project
 2. npm install - To install all the dependencies
-3. Open two terminal or cmd and run the following commands:
-    a. npm start - To run the react prject
-    b. npx json-server --watch db.json --port 8000  - To run the json server to do proxy api call using json server
+3. Open two terminal or cmd and run the following commands:__
+   
+    a. npm start - To run the react prject__
+    b. npx json-server --watch db.json --port 8000  - To run the json server to do proxy api call using json server__
 
 ## Available Scripts
 
