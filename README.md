@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     a. npm start   :- To run the react prject <br />
     b. npx json-server --watch db.json --port 8000    :- To run the json server to do proxy api call using json server <br />
 
-Remember to use port : 8000 for json server
+Remember to use port : 8000 for json server <br/>
 4. And now we can access our web app on http://localhost:3000/
 
 ## Available Scripts
